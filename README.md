@@ -59,12 +59,12 @@ This analysis highlights crucial aspects of the restaurant’s performance, incl
 
 ## Requirements
 
-**Python 3.12.0**
-**Jupyter Notebook**
-**pandas**
-**numpy**
-**matplotlib**
-**seaborn**
+- **Python 3.12.0**
+- **Jupyter Notebook**
+- **pandas**
+- **numpy**
+- **matplotlib**
+- **seaborn**
 
 
 ## How to Run
